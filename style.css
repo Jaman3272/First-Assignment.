@@ -1,0 +1,151 @@
+body{
+    font-family: 'Archivo Black', sans-serif;
+font-family: 'Luxurious Roman', cursive;
+font-family: 'Poppins', sans-serif;
+font-family: 'Source Sans Pro', sans-serif;
+    
+    margin: 0;
+}
+h1{
+    font-size: 60px;
+}
+.section-1{
+    margin-left: 10%;
+    
+}
+.section-1 p{
+    margin-bottom: 25px;
+}
+.mission{
+    border-left: 5px solid rgb(218, 36, 148);
+    border-image: linear-gradient(rgb(218, 146, 14) rgb(128, 0, 90));
+    
+
+}
+.Future-plan h2{
+    font-size: 65px;
+    text-align: center;
+}
+
+.flexible-div{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    
+}
+.half-width img{
+    width: 70%;
+}
+.colour{
+    color: orange
+}
+.red-colour{
+    color: rgb(10, 116, 187);
+}
+.link-button{
+    background-color: rgb(94, 13, 223);
+    padding: 10px 30px;
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    border-radius: 5px;
+    
+}
+.Future-plan{
+    margin-bottom: 100px;
+}
+.Future-plan h3{
+     font-size: 30px;
+}
+.box-1 img{
+    width: 45%;
+}
+.box-2 img{
+    width: 45%;
+}
+.box-3 img{
+    width: 45%;
+}
+.box-1{
+    width:26% ;
+    margin-left:3% ;
+    
+    border-radius:15px;
+    background-color: rgb(201, 185, 166);
+    padding-left:30px;
+    padding-bottom: 30px;
+    padding-right: 30px;
+    
+}
+.box-2{
+    width:26% ;
+    margin-left:3% ;
+    
+    border-radius:15px;
+    background-color: rgba(180, 221, 197, 0.295);
+    padding-left: 30px;
+    padding-bottom: 30px;
+    padding-right: 30px;
+
+   
+}
+.box-3{
+    width:26% ;
+    margin-left:3% ;
+    
+    border-radius:15px;
+    background-color: rgb(165, 202, 117);
+    padding-left: 30px;
+    padding-right: 30px;
+    
+}
+.section-3 img{
+    width: 80%;
+    margin-left: 8%;
+}
+.section-3{
+    display: flex;
+    margin-top: 150px;
+}
+.section-3 h2{
+    font-size: 50px;
+}
+.section-3{
+    margin-right: 2%;
+}
+.section-4 h2{
+    font-size: 50px;
+}
+.section-4{
+    margin-top: 150px;
+}
+.section-4 img{
+    width: 80%;
+    margin-left: 7%;
+}
+.contant{
+    margin-left:3%;
+
+}
+
+footer{
+    background-color: rgb(14, 13, 13);
+    padding: 50px 0;
+    margin-top: 60px;
+}
+footer h2{
+        text-align: center;
+        color: white;
+        font-size: 30px;
+}
+footer p{
+    text-align: center;
+    color: white;
+}
+.foot-span{
+    color: red;
+}
+
+
+
